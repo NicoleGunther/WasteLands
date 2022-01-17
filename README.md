@@ -1,3 +1,3 @@
 # WasteLands
 
-Developed with Unreal Engine 4
+Videogame idea developed with Unreal Engine 4
